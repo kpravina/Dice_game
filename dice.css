@@ -1,0 +1,29 @@
+body{
+     background-image: url("trees.jpg");
+    /* background-color: coral; */
+    justify-content:center;
+    text-align:center;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-style: italic;
+    color: antiquewhite;
+    text-shadow: cornflowerblue;
+}
+input{
+    width:60px;
+    justify-content:center;
+    height:30px;
+    border-radius: 40px;
+    background-image: none;
+    padding: 3px;
+}
+.rollbutton{
+    /* width:32%;
+    height: 70%; */
+    
+    margin-top: 30px;
+    border-radius: 50px;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
